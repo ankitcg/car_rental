@@ -36,8 +36,8 @@ const MyBooking = () => {
               <div className='date'>
                 <p>:  Bangalore</p>
                 <p>:  Mysore</p>
-                <p>:  16/5/19</p>
-                <p>:  17/5/19</p>
+                <p>:  28/5/2023</p>
+                <p>:  28/5/2023</p>
               </div>
 
               <div className='mini-3rd-div-img'>
@@ -59,7 +59,7 @@ const MyBooking = () => {
               </div>
               <div>
                 <p>GOTSEB </p>
-                <p>19-APRIL-2023</p>
+                <p>28/5/2023</p>
                 <p>8:00 PM</p>
 
               </div>
@@ -109,8 +109,8 @@ const MyBooking = () => {
               <div className='date'>
                 <p>:  Bangalore</p>
                 <p>:  Mysore</p>
-                <p>:  16/5/19</p>
-                <p>:  17/5/19</p>
+                <p>:  28/5/2023</p>
+                <p>:  28/5/2023</p>
               </div>
 
               <div className='mini-3rd-div-img'>
@@ -132,7 +132,7 @@ const MyBooking = () => {
               </div>
               <div>
                 <p>GOTSEB </p>
-                <p>19-APRIL-2023</p>
+                <p>28/5/2023</p>
                 <p>8:00 PM</p>
 
               </div>
@@ -181,8 +181,8 @@ const MyBooking = () => {
               <div className='date'>
                 <p>:  Bangalore</p>
                 <p>:  Mysore</p>
-                <p>:  16/5/19</p>
-                <p>:  17/5/19</p>
+                <p>:  28/5/2023</p>
+                <p>:  28/5/2023</p>
               </div>
 
               <div className='mini-3rd-div-img'>
@@ -204,7 +204,7 @@ const MyBooking = () => {
               </div>
               <div>
                 <p>GOTSEB </p>
-                <p>19-APRIL-2023</p>
+                <p>28/5/2023</p>
                 <p>8:00 PM</p>
 
               </div>
