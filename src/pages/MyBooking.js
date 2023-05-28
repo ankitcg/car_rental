@@ -34,8 +34,8 @@ const MyBooking = () => {
               </div>
 
               <div className='date'>
-                <p>:  Delhi</p>
-                <p>:  Up</p>
+                <p>:  Bangalore</p>
+                <p>:  Mysore</p>
                 <p>:  16/5/19</p>
                 <p>:  17/5/19</p>
               </div>
@@ -107,8 +107,8 @@ const MyBooking = () => {
               </div>
 
               <div className='date'>
-                <p>:  Delhi</p>
-                <p>:  Up</p>
+                <p>:  Bangalore</p>
+                <p>:  Mysore</p>
                 <p>:  16/5/19</p>
                 <p>:  17/5/19</p>
               </div>
@@ -179,8 +179,8 @@ const MyBooking = () => {
               </div>
 
               <div className='date'>
-                <p>:  Delhi</p>
-                <p>:  Up</p>
+                <p>:  Bangalore</p>
+                <p>:  Mysore</p>
                 <p>:  16/5/19</p>
                 <p>:  17/5/19</p>
               </div>
